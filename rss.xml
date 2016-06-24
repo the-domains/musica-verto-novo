@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Musica Verto Novo]]></title>
+        <description><![CDATA[Musica Verto Novo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 24 Jun 2016 20:33:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdcb1a79-49c2-4707-9027-de479f5c2583.jpg">]]></description>
+            <link>undefineddc94119a-25d8-45cd-b6af-2b43dc9b7d7c/index.html</link>
+            <guid isPermaLink="false">dc94119a-25d8-45cd-b6af-2b43dc9b7d7c</guid>
+            <pubDate>Fri, 24 Jun 2016 20:33:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
