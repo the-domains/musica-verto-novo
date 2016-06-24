@@ -1,4 +1,3 @@
-layout_spectrum: 0.14974021911621094
 typography_spectrum: 0.8695974338334054
 color:
   brandStrength: 0.6250279010273516
@@ -6,9 +5,14 @@ color:
   saturation: 0.2809620702173561
   rhythmicContrast: 0.7830306375399232
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+layout_spectrum: 0.14974021911621094
+author:
+  name: Luke Rackers
+  email: luke@dolcemusicservice.com
 name: Musica Verto Novo
+title: New Music for the 21st Century
