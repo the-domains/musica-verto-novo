@@ -4,7 +4,7 @@
         <description><![CDATA[Musica Verto Novo]]></description>
         <link>https://thegrid.ai/musica-verto-novo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 20:33:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2016 20:34:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/musica-verto-novo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Musica Verto Novo]]></title>
@@ -47,6 +47,13 @@
             <link>https://thegrid.ai/musica-verto-novo/dc94119a-25d8-45cd-b6af-2b43dc9b7d7c/index.html</link>
             <guid isPermaLink="false">dc94119a-25d8-45cd-b6af-2b43dc9b7d7c</guid>
             <pubDate>Fri, 24 Jun 2016 20:33:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59b1c1cc-3e9f-40be-aeee-5d7b8188a4a1.jpg">]]></description>
+            <link>https://thegrid.ai/musica-verto-novo/c194a75b-1762-4f1e-be11-201e358f8ce2/index.html</link>
+            <guid isPermaLink="false">c194a75b-1762-4f1e-be11-201e358f8ce2</guid>
+            <pubDate>Fri, 24 Jun 2016 20:33:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
